@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pe.com.inventorsis"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml
+10
+11    <!-- Include required permissions for Google Maps API to run. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+13-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:5:5-29:19
+20        android:allowBackup="true"
+20-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:7:9-43
+25        android:label="@string/app_name"
+25-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:8:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:9:9-54
+27        android:supportsRtl="true"
+27-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:10:9-35
+28        android:testOnly="true"
+29        android:theme="@style/MyMaterialTheme" >
+29-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:11:9-47
+30        <activity android:name="pe.com.inventorsis.ui.LoginActivity" >
+30-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:12:9-14:20
+30-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:12:19-51
+31        </activity>
+32        <activity android:name="pe.com.inventorsis.ui.SplashActivity" >
+32-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:15:9-21:20
+32-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:15:19-52
+33            <intent-filter>
+33-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:16:13-20:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:17:17-69
+34-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:17:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:19:17-77
+36-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:19:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="pe.com.inventorsis.ui.MenuActivity" >
+39-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:22:9-24:20
+39-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:22:19-50
+40        </activity>
+41
+42        <meta-data
+42-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:26:9-28:57
+43            android:name="preloaded_fonts"
+43-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:27:13-43
+44            android:resource="@array/preloaded_fonts" />
+44-->E:\Otro\Inventorsis\App\Android\Inventorsis\app\src\main\AndroidManifest.xml:28:13-54
+45        <!-- Needs to be explicitly declared on P+ -->
+46        <uses-library
+46-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+47            android:name="org.apache.http.legacy"
+47-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+48            android:required="false" />
+48-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\ab277dee14ea741a987319f7c9be68d5\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+49
+50        <activity
+50-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\cf00c6a40e852bea0437b3f325a3c130\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\cf00c6a40e852bea0437b3f325a3c130\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\cf00c6a40e852bea0437b3f325a3c130\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\cf00c6a40e852bea0437b3f325a3c130\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+54
+55        <meta-data
+55-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\4aa0a57659747c57acad8f50ca5340fe\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+56            android:name="com.google.android.gms.version"
+56-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\4aa0a57659747c57acad8f50ca5340fe\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+57            android:value="@integer/google_play_services_version" />
+57-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\4aa0a57659747c57acad8f50ca5340fe\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+58
+59        <provider
+59-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+60            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+61            android:authorities="pe.com.inventorsis.lifecycle-process"
+61-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+62            android:exported="false"
+62-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+63            android:multiprocess="true" />
+63-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\John Mamani\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+64    </application>
+65
+66</manifest>

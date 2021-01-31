@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checklist.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_checklist.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cotizacion.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_cotizacion.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\font\\roboto_light.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_producto.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_producto.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ventas.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_ventas.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inicio.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_guias_detalle.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_guias_detalle.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_guias.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\item_guias.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_selector.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\edit_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_guias_listado.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_guias_listado.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_guias_buscar.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_guias_buscar.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_productos.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_productos.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cotizacion_lista.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_cotizacion_lista.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_guias_filtrar.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_guias_filtrar.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_clipboard.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_clipboard.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cotizacion_nuevo.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\fragment_cotizacion_nuevo.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ventas.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_ventas.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_estimate.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_estimate.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_barra_estado.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\drawable\\border_barra_estado.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clipboard.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_clipboard.png"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Otro\\Inventorsis\\App\\Android\\Inventorsis\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
