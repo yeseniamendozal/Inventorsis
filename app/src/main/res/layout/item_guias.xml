@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+        <View
+            android:id="@+id/item_estado_guia"
+            android:layout_width="16dp"
+            android:layout_height="0dp"
+            android:background="@drawable/border_barra_estado"
+            android:backgroundTint="@color/estado_guia_registrado"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_guia_correlativo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="4dp"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/cv_guia_correlativo"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintStart_toEndOf="@+id/item_estado_guia"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/item_guia_correlativo_rspta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="G00546"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_guia_correlativo"
+            app:layout_constraintTop_toTopOf="@+id/tv_guia_correlativo" />
+
+        <TextView
+            android:id="@+id/tv_guia_descripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/cv_guia_descripcion"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_guia_correlativo"
+            app:layout_constraintTop_toBottomOf="@+id/item_guia_correlativo_rspta" />
+
+        <TextView
+            android:id="@+id/item_guia_descripcion_rspta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="All in ones de reparación"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_guia_descripcion"
+            app:layout_constraintTop_toTopOf="@+id/tv_guia_descripcion" />
+
+        <TextView
+            android:id="@+id/tv_guia_tipo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/cv_guia_tipo"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_guia_descripcion"
+            app:layout_constraintTop_toBottomOf="@+id/item_guia_descripcion_rspta" />
+
+        <TextView
+            android:id="@+id/item_guia_tipo_rspta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="I"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_guia_tipo"
+            app:layout_constraintTop_toTopOf="@+id/tv_guia_tipo" />
+
+        <TextView
+            android:id="@+id/tv_guia_fecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/cv_guia_fecha"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_guia_tipo"
+            app:layout_constraintTop_toBottomOf="@+id/item_guia_tipo_rspta" />
+
+        <TextView
+            android:id="@+id/item_guia_fecha_rspta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="23/01/2020"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_guia_fecha"
+            app:layout_constraintTop_toTopOf="@+id/tv_guia_fecha" />
+
+        <TextView
+            android:id="@+id/tv_guia_estado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/cv_guia_estado"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_guia_fecha"
+            app:layout_constraintTop_toBottomOf="@+id/item_guia_fecha_rspta" />
+
+        <TextView
+            android:id="@+id/item_guia_estado_rspta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="Registrado"
+            android:textColor="@color/texto"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_guia_estado"
+            app:layout_constraintTop_toTopOf="@+id/tv_guia_estado" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

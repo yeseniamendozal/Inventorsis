@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.menu.guias.GuiasDetalleFragment">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="8dp"
+        app:cardElevation="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#E0E0E0"
+        app:strokeWidth="0.5dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:id="@+id/guia_correlativo_rspta"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="Guía G00546"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_default="percent"
+                app:layout_constraintWidth_percent="0.95" />
+
+            <TextView
+                android:id="@+id/tvOrigen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:text="@string/guia_detalle_origen"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="@+id/guia_correlativo_rspta"
+                app:layout_constraintTop_toBottomOf="@+id/guia_correlativo_rspta" />
+
+            <TextView
+                android:id="@+id/guia_detalle_origen_rspta"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="Sistemabar Aviación"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="@+id/guia_correlativo_rspta"
+                app:layout_constraintStart_toEndOf="@+id/tvOrigen"
+                app:layout_constraintTop_toTopOf="@+id/tvOrigen" />
+
+            <TextView
+                android:id="@+id/tvDestino"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:text="@string/guia_detalle_destino"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="@+id/tvOrigen"
+                app:layout_constraintTop_toBottomOf="@+id/guia_detalle_origen_rspta" />
+
+            <TextView
+                android:id="@+id/guia_detalle_destino_rspta"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="Dulces rollos - Surco"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="@+id/guia_detalle_origen_rspta"
+                app:layout_constraintStart_toEndOf="@+id/tvDestino"
+                app:layout_constraintTop_toTopOf="@+id/tvDestino" />
+
+            <TextView
+                android:id="@+id/tvDescripcion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:text="@string/guia_detalle_descripcion"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="@+id/tvDestino"
+                app:layout_constraintTop_toBottomOf="@+id/guia_detalle_destino_rspta" />
+
+            <TextView
+                android:id="@+id/guia_detalle_descripcion_rspta"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="All in ones de repación"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="@+id/guia_detalle_destino_rspta"
+                app:layout_constraintStart_toEndOf="@+id/tvDescripcion"
+                app:layout_constraintTop_toTopOf="@+id/tvDescripcion" />
+
+            <TextView
+                android:id="@+id/tvEstado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:text="@string/guia_detalle_estado"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="@+id/tvDescripcion"
+                app:layout_constraintTop_toBottomOf="@+id/guia_detalle_descripcion_rspta" />
+
+            <TextView
+                android:id="@+id/guia_detalle_estado_rspta"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="En camino a destino"
+                android:textColor="@color/texto"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="@+id/guia_detalle_descripcion_rspta"
+                app:layout_constraintStart_toEndOf="@+id/tvEstado"
+                app:layout_constraintTop_toTopOf="@+id/tvEstado" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

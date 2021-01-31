@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Inventorsis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_name">Administrador del sistema</string>
+
+    <!-- LOGIN -->
+    <string name="login_app_name">Inventorsis</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_clave">Contraseña</string>
+
+    <!-- BOTONES -->
+    <string name="btn_Login">Iniciar sesión</string>
+    <string name="btn_Filtrar">Aplicar filtros</string>
+
+    <!-- NAVIGATION DRAWER -->
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_guias">Guías</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_cotización_nuevo">Nueva cotización</string>
+    <string name="menu_cotización_lista">Lista de cotizaciones</string>
+    <string name="menu_ventas">Ventas</string>
+    <string name="menu_cerrar_sesion">Cerrar sesión</string>
+
+    <!-- ENCABEZADO FRAGMENT'S -->
+    <string name="fragment_inicio">Inventorsis</string>
+    <string name="fragment_guias">Guías</string>
+    <string name="fragment_productos">Productos</string>
+    <string name="fragment_cotización_nuevo">Nueva cotización</string>
+    <string name="fragment_cotización_lista">Lista de cotizaciones</string>
+    <string name="fragment_ventas">Ventas</string>
+
+    <string name="fragment_guias_filtrar">Filtros</string>
+    <string name="fragment_guias_buscar">Buscar</string>
+    <string name="fragment_guias_detalle">Detalle de guía</string>
+
+    <!-- FRAGMENT INICIO -->
+    <string name="menu_opciones">Menú de opciones</string>
+    <string name="tvGuias">Guías</string>
+    <string name="tvProductos">Productos</string>
+    <string name="tvCotizacion">Cotización</string>
+    <string name="tvVentas">Ventas</string>
+
+    <!-- CARD'S -->
+    <!-- ITEM - GUÍAS-->
+    <string name="cv_guia_correlativo">Correlativo:</string>
+    <string name="cv_guia_descripcion">Descripción:</string>
+    <string name="cv_guia_tipo">Tipo:</string>
+    <string name="cv_guia_fecha">Fecha:</string>
+    <string name="cv_guia_estado">Estado:</string>
+
+    <!-- FRAGMENT GUÍAS - FILTRAR / BUSCAR / DETALLE-->
+    <string name="guia_filtrar_tipo">Tipo</string>
+    <string name="guia_filtrar_estado">Estado</string>
+    <string name="guia_filtrar_fecha">Fecha</string>
+
+    <string name="guia_buscar">Buscar por correlativo o descripción</string>
+
+    <string name="guia_detalle_origen">Origen:</string>
+    <string name="guia_detalle_destino">Destino:</string>
+    <string name="guia_detalle_descripcion">Descripción:</string>
+    <string name="guia_detalle_estado">Estado:</string>
+    <string name="guia_detalle_productos">Productos</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/sep1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_guias"
+            android:title="@string/menu_guias" />
+        <item
+            android:id="@+id/nav_productos"
+            android:title="@string/menu_productos" />
+        <item
+            android:id="@+id/nav_cotizacion_nuevo"
+            android:title="@string/menu_cotización_nuevo" />
+        <item
+            android:id="@+id/nav_cotizacion_lista"
+            android:title="@string/menu_cotización_lista" />
+        <item
+            android:id="@+id/nav_ventas"
+            android:title="@string/menu_ventas" />
+
+    </group>
+
+    <group
+        android:id="@+id/sep2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cerrar_sesion"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/menu_cerrar_sesion" />
+    </group>
+
+</menu>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="pe.com.inventorsis.ui.menu.InicioFragment"
+        android:label="@string/fragment_inicio"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_guias"
+        android:name="pe.com.inventorsis.ui.menu.guias.GuiasListadoFragment"
+        android:label="@string/fragment_guias"
+        tools:layout="@layout/fragment_guias_listado" />
+
+    <fragment
+        android:id="@+id/nav_productos"
+        android:name="pe.com.inventorsis.ui.menu.ProductosFragment"
+        android:label="@string/fragment_productos"
+        tools:layout="@layout/fragment_productos" />
+
+    <fragment
+        android:id="@+id/nav_cotizacion_nuevo"
+        android:name="pe.com.inventorsis.ui.menu.CotizacionNuevoFragment"
+        android:label="@string/fragment_cotización_nuevo"
+        tools:layout="@layout/fragment_cotizacion_nuevo" />
+
+    <fragment
+        android:id="@+id/nav_cotizacion_lista"
+        android:name="pe.com.inventorsis.ui.menu.CotizacionListaFragment"
+        android:label="@string/fragment_cotización_lista"
+        tools:layout="@layout/fragment_cotizacion_lista" />
+
+    <fragment
+        android:id="@+id/nav_ventas"
+        android:name="pe.com.inventorsis.ui.menu.VentasFragment"
+        android:label="@string/fragment_ventas"
+        tools:layout="@layout/fragment_ventas" />
+
+    <!-- GUÍAS -->
+    <fragment
+        android:id="@+id/nav_guias_filtrar"
+        android:name="pe.com.inventorsis.ui.menu.guias.GuiasFiltrarFragment"
+        android:label="@string/fragment_guias_filtrar"
+        tools:layout="@layout/fragment_guias_filtrar" />
+
+    <fragment
+        android:id="@+id/nav_guias_buscar"
+        android:name="pe.com.inventorsis.ui.menu.guias.GuiasBuscarFragment"
+        android:label="@string/fragment_guias_buscar"
+        tools:layout="@layout/fragment_guias_buscar" />
+
+    <fragment
+        android:id="@+id/nav_guias_detalle"
+        android:name="pe.com.inventorsis.ui.menu.guias.GuiasDetalleFragment"
+        android:label="@string/fragment_guias_detalle"
+        tools:layout="@layout/fragment_guias_detalle" />
+
+</navigation>

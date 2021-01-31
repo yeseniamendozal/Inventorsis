@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5396F3</color>
+    <color name="colorPrimaryDark">#408AF2</color>
+    <color name="colorAccent">#5396F3</color>
+
+    <color name="nav_color">#FFFFFF</color>
+
+    <!-- TEXTO  -->
+    <color name="texto">#000000</color>
+    <color name="texto_blanco">#FFFFFF</color>
+
+    <!-- ICONOS  -->
+    <color name="icono_appBar">#FFFFFF</color>
+    <color name="icono_fab">#FFFFFF</color>
+
+    <!-- BARRA DE ESTADO  -->
+    <color name="estado_guia_registrado">#5396F3</color>
+    <color name="estado_guia_enviando">#F1C232</color>
+    <color name="estado_guia_entregado">#008A1B</color>
+
+</resources>
